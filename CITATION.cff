@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "The effects of habitat modification on functional diversity of bird communities in the Western Cape"
+authors:
+  - family-names: "Šimková"
+    given-names: "Markéta"
+    affiliation: "Imperial College London"
+date-released: 2025-10-31
+license: MIT
+repository-code: "https://github.com/makysimkova/fynbos-bird-functional-diversity"
+keywords:
+  - functional diversity
+  - birds
+  - fynbos
+  - land-use change
+  - AVONET
+  - R

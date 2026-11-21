@@ -1,0 +1,5 @@
+index,test,statistic,p_value
+FRic,Wilcoxon rank-sum,528,3.2071686035806124e-6
+FDis,Wilcoxon rank-sum,492,8.235500243425342e-5
+FEve,Wilcoxon rank-sum,171,0.013955664303380851
+FDiv,Wilcoxon rank-sum,456,0.001291287616414838

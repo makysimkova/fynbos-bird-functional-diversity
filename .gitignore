@@ -1,0 +1,7 @@
+data/external/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+.DS_Store
